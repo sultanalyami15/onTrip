@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnTrip</string>
+    <string name="button_text">click me!</string>
+    <string name="text_view"></string>
+</resources>
